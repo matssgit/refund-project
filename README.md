@@ -1,3 +1,7 @@
+## 📸 Demonstração
+
+![Preview do Refund](./img/preview.png)
+
 # 💸 Refund - Sistema de Gestão de Reembolsos
 
 O **Refund** é uma aplicação interativa desenvolvida para facilitar a organização e solicitação de reembolsos. O foco principal deste projeto foi aplicar conceitos avançados de manipulação de estados no Front-end utilizando JavaScript puro, garantindo uma interface fluida e uma experiência de usuário (UX) otimizada.
